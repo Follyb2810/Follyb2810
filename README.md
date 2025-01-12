@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Babatunde Yusuf Folorunsho</h1>
 <h3 align="center">Am passionate full stack developer</h3>
 
