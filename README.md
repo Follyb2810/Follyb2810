@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... building full-stack in c# using dotnet and aspnet identity to achieve a full-blown marketplace
-- 🌱 I’m currently learning ... presently am learning c#
-- 👯 I’m looking to collaborate on ... to collaborate on any C# project to have more engaging knowledge 
+- 🔭 I’m currently working on ... Building an epic full-stack marketplace in C# using .NET and ASP.NET Identity. 🚀
+- 🌱 I’m currently learning ... Mastering the art of C# like a wizard with a shiny new spellbook. 🧙‍♂️
+- 👯 I’m looking to collaborate on ...  Any C# project—let’s team up and make some coding magic happen! 💻✨
+- 💬 Ask me about ... Anything about C#, JavaScript, TypeScript, frontend frameworks, backend libraries, or databases—basically,
+-  I’m your tech buddy for everything under the sun! ☀️🤓
+-  Latest trends in ML and Ai
 
 <!--
 **Follyb2810/follyb2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
